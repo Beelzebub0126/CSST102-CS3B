@@ -95,3 +95,16 @@ more secure.
 Predictive Recommendation (Marketing): ML recommends 
 products or content based on what people like, improving user 
 experience and helping companies like Netflix keep customers.
+
+Disease Prediction: https://demigos.com/blog-post/machine-learning-in-the-medical-field-cases-challenges/
+Fraud Detection: https://www.akkio.com/post/machine-learning-in-finance-10-applications-and-use-cases
+Predictive Recommendations: https://www.akkio.com/post/7-examples-of-machine-learning-for-marketing
+
+References:
+
+Disease Prediction: https://demigos.com/blog-post/machine-learning-in-the-medical-field-cases-challenges/
+Fraud Detection: https://www.akkio.com/post/machine-learning-in-finance-10-applications-and-use-cases
+Predictive Recommendations: https://www.akkio.com/post/7-examples-of-machine-learning-for-marketing
+
+
+
